@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="32" y="104" width="785" height="593" text="Browser&#xA;http://www.locorojo.com" measuredWidth="785" measuredHeight="593" background="#f4cccc">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="2" x="791" y="166" height="521" measuredWidth="17" measuredHeight="521"/>
+  <widgets xsi:type="model:ButtonBar" id="3" x="60" y="178" width="629" text="About Us, Products, Contact Us" measuredWidth="629" measuredHeight="27" selection="0" background="#f00">
+    <font/>
+    <items x="0" y="0" width="201" height="27" text="About Us"/>
+    <items x="201" y="0" width="194" height="27" text="Products"/>
+    <items x="395" y="0" width="234" height="27" text="Contact Us"/>
+  </widgets>
+  <widgets xsi:type="model:CoverFlow" id="4" x="60" y="332" width="709" measuredWidth="709" measuredHeight="125"/>
+  <widgets xsi:type="model:List" id="5" x="536" y="203" text="Careers&#xD;&#xA;Work with Us" measuredWidth="81" measuredHeight="46">
+    <font/>
+    <items x="0" y="2" width="81" height="21" text="Careers"/>
+    <items x="0" y="23" width="81" height="21" text="Work with Us"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="6" x="93" y="528" width="664" height="105" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." measuredWidth="664" measuredHeight="105">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="226" y="248" text="Loco Rojo Vineyard" measuredWidth="371" measuredHeight="67">
+    <font size="43px"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="8" x="352" y="352" width="119" height="85" measuredWidth="119" measuredHeight="85" icon="image (large)"/>
+  <widgets xsi:type="model:SearchField" id="9" x="703" y="180" text="Search" measuredWidth="66" measuredHeight="24">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
